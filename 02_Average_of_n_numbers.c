@@ -32,15 +32,5 @@ Enter the numbers of elements:6
 5. Enter number: 33
 6. Enter number: 45.6
 Average = 27.69
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-Ab
+
+
